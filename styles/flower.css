@@ -46,3 +46,58 @@
      padding: 15px 30px;
 
 }
+/* ..........main section style........... */
+
+.section-title{
+     color: #272727;
+     text-align: center;
+     
+     font-size: 40px;
+     
+     font-weight: 800;
+
+    
+}
+.section-description{
+     color: rgba(39, 39, 39, 0.60);
+
+text-align: center;
+font-size: 18px;
+
+font-weight: 400;
+
+    
+}
+.flower{
+     display: flex;
+     justify-content: space-around;
+    
+     
+    
+
+}
+
+.first-flower{
+     
+     padding: 110px 78px 0px 76px;
+     
+     border-radius: 300px 300px 0px 0px;
+     background: rgba(167, 33, 98, 0.15);
+}
+.second-flower{
+     padding: 110px 78px 0px 76px;
+     border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+}
+.third-flower{
+     padding: 110px 78px 0px 76px;
+     border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.flower-name{
+     display: flex;
+     justify-content: space-around;
+     text-align: center;
+     font-size: 24px;
+     text-decoration: underline;
+}
