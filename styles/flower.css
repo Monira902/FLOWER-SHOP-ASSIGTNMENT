@@ -1,0 +1,48 @@
+/* ..........HEADER STYLES............ */
+* {
+     font-family: 'EB Garamond', serif;
+     font-family: 'Lato', sans-serif;
+     font-family: 'Open Sans', sans-serif;
+     font-family: 'Work Sans', sans-serif;
+}
+
+.banner {
+     display: flex;
+     background-color: #E554731A;
+     justify-content: space-around;
+     align-items: center;
+     gap: 97px;
+     padding: 50px 50px 0px 100px;
+
+}
+
+.banner-title {
+     color: #272727;
+     font-size: 50px;
+     font-weight: bold;
+
+
+}
+
+.banner-sub-title {
+     color: rgba(39, 39, 39, 0.60);
+     font-size: 12px;
+     font-weight: 400;
+     line-height: 30px;
+}
+
+.banner .profile-pic {
+     width: 635px;
+     height: 600px;
+}
+
+.btn-primary {
+     border-radius: 8px;
+     background: #E55473;
+     color: #FFF;
+     font-size: 15px;
+     font-weight: 700;
+     border: none;
+     padding: 15px 30px;
+
+}
